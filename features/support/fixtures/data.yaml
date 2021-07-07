@@ -1,0 +1,35 @@
+carro:
+  make: "BMW"
+  model: "Scooter"
+  cylindercapacity: 200
+  engine_performance: 230
+  dateofmanufacture: "07/05/2021"
+  numberofseats: 5
+  numberofseatsmotorcycle: 3
+  fuel: "Petrol"
+  payload: 100
+  totalweight: 500
+  listprice: 50000
+  licenseplatenumber: 500
+  annualmileage: 500
+seguradora:
+  firstname: "Guilherme"
+  lastname: "Reis"
+  birthdate: "11/09/1993"
+  country: Brazil
+  zipcode: "29830000"
+  occupation: Employee
+produto:
+  startdate: 08/31/2021
+  insurancesum: "3.000.000,00"
+  meritrating: "Super Bonus"
+  damageinsurance: "No Coverage"
+  courtesycar: "Yes"
+preco:
+  price: 2
+cliente:
+  email: "guilhermeureis@gmail.com"
+  username: "guilhermeureis93"
+  password: "ABc_1256@"
+  confirmpassword: "ABc_1256@"
+  
